@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @SkurllexTV
-- 📫 U can reach me on discord 
-- Skurllex#9483 / discord.gg/b-dev
+
+- Skurllex#1337 / discord.gg/b-dev
 
 <!---
 SkurllexTV/SkurllexTV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
