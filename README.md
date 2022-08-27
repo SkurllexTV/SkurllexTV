@@ -1,6 +1,6 @@
 
-- Skurllex#1337 / discord.gg/b-dev
-- FiveM Developer / Scripter
+- Skurllex#0911 / discord.gg/b-dev
+
 
 <!---
 SkurllexTV/SkurllexTV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
