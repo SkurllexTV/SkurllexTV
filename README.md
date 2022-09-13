@@ -1,7 +1,7 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/791719518568972299)](https://discord.com/users/791719518568972299)
 
 📘 &nbsp;**About me**
-- :s
+- 🗂 &nbsp; Founder and CEO of b-dev.eu
 - 🌱 &nbsp;I’m currently learning React and Php
 - 📫 &nbsp;How to reach me: [@Skurllex#0911 (discord)](https://discord.gg/b-dev)
 - ⚡ &nbsp;Fun fact: I love my Girlfriend
