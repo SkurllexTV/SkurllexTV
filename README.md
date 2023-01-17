@@ -2,7 +2,6 @@
 
 📘 &nbsp;**About me**
 - 🗂 &nbsp; Founder and CEO of b-dev.eu
-- 🌱 &nbsp;I’m currently learning React and Php
 - 📫 &nbsp;How to reach me: [@Skurllex#1337 (discord)](https://discord.gg/b-dev)
 
 🔗 &nbsp;**Connect with me**
