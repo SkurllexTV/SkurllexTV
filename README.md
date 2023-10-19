@@ -15,3 +15,4 @@
 
 ---
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/b-dev) 
+[![wakatime](https://wakatime.com/badge/user/018b148d-e976-4a7c-bd85-3dd65bcd4e29.svg)](https://wakatime.com/@018b148d-e976-4a7c-bd85-3dd65bcd4e29)
