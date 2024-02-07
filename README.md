@@ -1,5 +1,3 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/791719518568972299)](https://discord.com/users/791719518568972299)
-
 📘 &nbsp;**About me**
 - 🗂 &nbsp; Founder and CEO of b-dev.eu
 - 📫 &nbsp;How to reach me: [@Skurllex (discord)](https://discord.gg/b-dev)
