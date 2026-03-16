@@ -58,13 +58,17 @@
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Overview
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SkurllexTV&show_icons=true&theme=transparent&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SkurllexTV&theme=github_dark"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkurllexTV&layout=compact&langs_count=8&theme=transparent&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SkurllexTV&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SkurllexTV&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SkurllexTV&theme=github_dark"/>
 
 </div>
 
@@ -74,25 +78,7 @@
 
 <div align="center">
 
-[![wakatime](https://wakatime.com/badge/user/Skurllex.svg)](https://wakatime.com/@Skurllex)
-
-</div>
-
----
-
-# 📊 WakaTime Stats
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
----
-
-# 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SkurllexTV&theme=github-compact&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Skurllex&theme=transparent&hide_border=true"/>
 
 </div>
 
@@ -103,6 +89,16 @@
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=SkurllexTV&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SkurllexTV&theme=github-dark&hide_border=true"/>
 
 </div>
 
