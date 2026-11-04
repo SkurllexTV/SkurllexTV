@@ -1,125 +1,28 @@
-<div align="center">
+<a href="https://edifystudios.de"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/hero.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/hero.svg"><img src="assets/dark/hero.svg" width="100%" alt="SKURLLEX in 3D chrome. Mario Stirbu, Hannover."></picture></a>
 
-# 👋 Hi, I'm Mario
+<br>
 
-💻 Fullstack / Backend Developer from Germany
-🚀 Building scalable web systems and realtime services
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/whoami.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/whoami.svg"><img src="assets/dark/whoami.svg" width="100%" alt="whoami: Mario Stirbu, developer and creator in Hannover. FiveM, product, infrastructure and content."></picture>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Backend+Developer;FiveM+Systems+Developer;Next.js+%7C+Node.js+%7C+Docker" />
+<br>
 
-</div>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/label-work.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/label-work.svg"><img src="assets/dark/label-work.svg" width="100%" alt="02 work"></picture>
 
----
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/card-district.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/card-district.svg"><img src="assets/dark/card-district.svg" width="49%" alt="District: FiveM roleplay platform"></picture> <a href="https://edifystudios.de"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/card-edify.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/card-edify.svg"><img src="assets/dark/card-edify.svg" width="49%" alt="edify studio: solo software studio"></picture></a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/card-skurllextv.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/card-skurllextv.svg"><img src="assets/dark/card-skurllextv.svg" width="49%" alt="SkurllexTV: developer courses and build videos"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/card-fxserver.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/card-fxserver.svg"><img src="assets/dark/card-fxserver.svg" width="49%" alt="FXServer: custom build for resource protection"></picture>
 
-# 👨‍💻 About Me
+<a href="https://skurllex.tebex.io"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/card-scripts.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/card-scripts.svg"><img src="assets/dark/card-scripts.svg" width="100%" alt="FiveM scripts: sold to over 2,000 servers"></picture></a>
 
-* 🇩🇪 Developer from Germany
-* 🔧 Working on **web systems, panels and backend infrastructure**
-* 📚 Interested in **systems programming (Rust, C, C++)**
-* ⚡ Passionate about **clean architecture and scalable applications**
+<br>
 
----
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/activity.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/activity.svg"><img src="assets/dark/activity.svg" width="100%" alt="GitHub activity over the last year as an ASCII heatmap"></picture>
 
-# 🛠 Tech Stack
+<br>
 
-## 💻 Languages
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/stack.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/stack.svg"><img src="assets/dark/stack.svg" width="100%" alt="Stack: product, backend, FiveM, infrastructure and AI."></picture>
 
-<p>
-<img src="https://skillicons.dev/icons?i=ts,js,python,lua,go,rust,cpp,c,java,swift" />
-</p>
+<br>
 
----
+<a href="mailto:hi@edifystudios.de"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/signoff.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/signoff.svg"><img src="assets/dark/signoff.svg" width="100%" alt="Hire: web, SaaS, mobile, FiveM. Open for projects. Contact: hi@edifystudios.de"></picture></a>
 
-## 🌐 Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=nextjs,react,reactnative,nodejs,express,tailwind,bootstrap,jquery,reactrouter" />
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white"/>
-</p>
-
----
-
-## 🗄 Backend & Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,prisma" />
-</p>
-
----
-
-## ☁ Infrastructure & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,nginx" />
-</p>
-
----
-
-# 📊 GitHub Overview
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SkurllexTV&theme=github_dark"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SkurllexTV&theme=github_dark"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SkurllexTV&theme=github_dark"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SkurllexTV&theme=github_dark"/>
-
-</div>
-
----
-
-# ⏱ Coding Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Skurllex&theme=transparent&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 Streak Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=SkurllexTV&theme=transparent&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SkurllexTV&theme=github-dark&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SkurllexTV/SkurllexTV/output/github-contribution-grid-snake.svg"/>
-
-</div>
-
----
-
-# ⭐ Fun Fact
-
-```ts
-while(alive) {
-   code();
-   build();
-   deploy();
-}
-```
+<p align="center"><sub><a href="mailto:hi@edifystudios.de">hi@edifystudios.de</a> &nbsp;·&nbsp; <a href="https://edifystudios.de">edifystudios.de</a> &nbsp;·&nbsp; discord: skurllex</sub></p>
