@@ -20,7 +20,7 @@ GitHub-Profil-README für Skurllex im Terminal-/Chrome-Stil (Vorlage: oxince), D
 ## Offene Punkte / Fragen
 - Annahme: Mail hi@edifystudios.de, Discord "skurllex": bestätigen
 - Card-Links (District, SkurllexTV) noch ohne URL
-- Annahme: Shop-Adresse skurllex.tebex.io
+- Annahme: Shop-Adresse https://b-development.tebex.io/
 - Heatmap zeigt bis zum ersten Action-Lauf Demo-Daten ("preview data")
 
 ## Nächster Schritt

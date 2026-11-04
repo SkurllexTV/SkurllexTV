@@ -24,7 +24,7 @@ PROFILE = {
     "city": "hannover",
     "site": "edifystudios.de",
     "mail": "hi@edifystudios.de",
-    "shop": "skurllex.tebex.io",
+    "shop": "https://b-development.tebex.io/",
 }
 
 THEMES = {
