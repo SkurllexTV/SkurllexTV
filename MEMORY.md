@@ -16,7 +16,13 @@ GitHub-Profil und Social-Assets für skurllex, neu aufgebaut nach dem Skurllex B
 - brand.py: Avatare navy/blau/weiß (1024 px), Discord-Profilbanner 1360×480, Discord-Server-Banner 960×540
 - Mail/Domain aus dem Kit: hallo@skurllex.com, skurllex.com
 
+- Animationen (nach Kritik „langweilig“): Einbau gestaffelt (CSS rise), Hero mit tippendem Code-Fenster, Toast „+20 Lektion abgeschlossen“ und Lichtlinien im Raster; Werte-Karten mit Live-Zeilen; Projektkarten mit Mini-Visuals (Log, Fortschritt/Punkte, Pipeline, Code-Review-Diff); Heatmap mit Zählern und pulsierendem Heute; Stack mit wandernder Markierung; Kontakt mit Punkte-Welle und rollendem Button-Text
+
+- Interaktive Profilseite (Wunsch: interaktiv + animiert; GitHub-README kann kein JS): site/template.html → site/build.py → docs/index.html (Schriften eingebettet). Terminal mit Befehlen, Themen-Chips, Maus-Glow, Projektfilter + Modal, Heatmap-Tooltips, Stack-Auswahl markiert Projekte, Punkte-System mit Toasts, Hell/Navy-Schalter, Mail kopieren. Als Artifact veröffentlicht (privat) und für GitHub Pages (/docs) vorbereitet
+- README: CTA-Kachel auf die Pages-Seite, FAQ als aufklappbare <details>; Action baut docs mit und kopiert contributions.json nach docs/
+
 ## Offene Punkte / Fragen
+- GitHub Pages im Repo aktivieren (main, /docs); URL angenommen: https://skurllextv.github.io/SkurllexTV/
 - District-Karte ohne Link (Server noch nicht öffentlich)
 
 ## Nächster Schritt
