@@ -1,6 +1,6 @@
 <a href="https://skurllex.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/hero.svg"><img src="assets/light/hero.svg" width="100%" alt="~/skurllex – Lerne TypeScript, Next.js, FiveM, DevOps und Lua. Aus echten Projekten."></picture></a>
 
-<a href="https://skurllextv.github.io/SkurllexTV/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/cta.svg"><img src="assets/light/cta.svg" width="100%" alt="Interaktive Version öffnen: Terminal, Filter, Punkte-System und Live-Heatmap"></picture></a>
+
 
 <br><br>
 
