@@ -1,27 +1,23 @@
 # MEMORY
 
 ## Kontext / Ziel
-GitHub-Profil-README für Skurllex im Terminal-/Chrome-Stil (Vorlage: oxince), Dark + Light.
+GitHub-Profil und Social-Assets für skurllex, neu aufgebaut nach dem Skurllex Branding Kit v1.0 (November 2026).
 
 ## Entscheidungen
-- Akzent Lime #C8FF3C (dark) / #5a7300 (light, Kontrast auf Weiß)
-- Hero als SVG: "SKURLLEX" in Syne 800 als Pfade, Chrome-Verlauf, Extrusion, Lime-Glow
-- JetBrains Mono NL als eingebettetes Subset in jedem SVG
-- PGP-Signoff ersetzt durch `./hire`-Terminal (Wunsch des Users)
-- Heatmap aus ASCII-Blöcken (··/░░/▒▒/▓▓/██), Stufen über Quartile; Daten per GitHub Action (GraphQL nur dort verfügbar)
-- Hero: diagonaler Glanz läuft alle 7 s über den Schriftzug
+- Kit ist maßgeblich: Navy #0F1B2D, Skurl Blue #2B5BE0, Weiß als Basis; Blue Light #7FA2FF auf Navy; Violett nur in Glows/Verläufen
+- Schriften: Geist (800 für Headlines, aus der Variable-Font instanziert), Geist Mono (Logo, Labels, Nummern)
+- Logo `~/skurllex▌`, Cursor blinkt nur digital, keine Effekte am Logo
+- Light = Standard, Navy = Dark-Mode-Variante (prefers-color-scheme)
+- Sprache Deutsch, per du, Headline-Formel „[Thema]. [Auflösung].“
+- Alte v1 (Lime, Chrome-3D, ASCII) verworfen, weil das Kit Neon-Gaming und Glow-Effekte ausschließt
 
 ## Umgesetzt
-- assets/{dark,light}: hero, whoami, label-work, card-district/edify/skurllextv/fxserver, stack, signoff
-- README.md, gen.py (Generator; Inhalte oben in PROFILE bzw. in den build_*-Funktionen)
-- activity.svg (03), card-scripts.svg (05, volle Breite), fetch_contributions.py, .github/workflows/activity.yml (täglich 03:17 UTC)
-- Schriften + OFL-Lizenzen in fonts/, damit die Action ohne externe Downloads läuft
+- gen.py: hero (rollendes Thema + blinkender Cursor, Linienraster mit Fade, 3 driftende Glows), about (01, Werte-Karten), projects + 4 Projektkarten (02), activity (03, Heatmap, Daten per Action), stack (04), contact (05, Punktraster)
+- brand.py: Avatare navy/blau/weiß (1024 px), Discord-Profilbanner 1360×480, Discord-Server-Banner 960×540
+- Mail/Domain aus dem Kit: hallo@skurllex.com, skurllex.com
 
 ## Offene Punkte / Fragen
-- Annahme: Mail hi@edifystudios.de, Discord "skurllex": bestätigen
-- Card-Links (District, SkurllexTV) noch ohne URL
-- Annahme: Shop-Adresse https://b-development.tebex.io/
-- Heatmap zeigt bis zum ersten Action-Lauf Demo-Daten ("preview data")
+- District-Karte ohne Link (Server noch nicht öffentlich)
 
 ## Nächster Schritt
-Daten bestätigen, Repo `skurllex/skurllex` anlegen, Ordner pushen.
+Repo-Inhalt komplett ersetzen, Action einmal manuell starten.
